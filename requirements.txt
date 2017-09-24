@@ -1,8 +1,3 @@
-argh==0.26.2
-attrs==16.2.0
-cffi==1.8.3
-click==6.6
-cryptography==1.5.2
 Flask==0.11.1
 Flask-MySQL==1.4.0
 gitdb==0.6.4
@@ -10,9 +5,6 @@ GitPython==2.0.5
 gunicorn==19.6.0
 heroku==0.1.4
 lxml==3.6.4
-MarkupSafe==0.23
-numpy==1.11.0
-queuelib==1.4.2
 requests==2.10.0
 scikit-learn==0.18
 scipy==0.18.1
@@ -21,3 +13,6 @@ selenium==2.53.6
 sklearn==0.0
 virtualenv==15.0.3
 watson_developer_cloud
+pickle
+collections
+math
