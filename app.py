@@ -31,7 +31,7 @@ def admissions():
     info_dict[ethnicity] = 1
     info_dict['activities'] = activities
     print(info_dict)
-    accept, waitlist, reject = finalcc.classifyme(info_dict)
+    reject, waitlist, accept = finalcc.classifyme(info_dict)
     accept = str(round(accept * 100, 2)) + '%'
     waitlist = str(round(waitlist * 100,2)) + '%'
     reject = str(round(reject * 100,2)) + '%'
