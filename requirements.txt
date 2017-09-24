@@ -13,5 +13,3 @@ selenium==2.53.6
 sklearn==0.0
 virtualenv==15.0.3
 watson_developer_cloud
-collections
-math
