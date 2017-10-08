@@ -1,6 +1,6 @@
 # collegeclairvoyant
 
-https://dashboard.heroku.com/apps/collegeclairvoyant
+https://collegeclairvoyant.herokuapp.com/
 
 Inspiration
 -----------
